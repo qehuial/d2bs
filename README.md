@@ -8,11 +8,10 @@
 
 3. d2bs\kolbot\libs\NTItemParser.dbl
 
-→ Skeptic님이 올려주셨던 FinalSorc의 창고지기를 추가했습니다(NT방식의 창고지기)
+→ Skeptic님이 올려주셨던 FinalSorc의 창고지기를 추가했습니다(NT방식 창고지기)
 
 → 초기단계라 오류가 있을 수 있습니다 원래 파일은 꼭 백업해주세요!
 
-(댓글로 어떤 상황에서 오류가 나는지 적어주시면 감사하겠습니다.)
 
 ![6](https://user-images.githubusercontent.com/100043245/161565628-92097794-e913-423c-b56c-7aae3d6da472.png)
 
