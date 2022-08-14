@@ -3,6 +3,8 @@
 22.8.14
 1. d2bs\kolbot\libs\common\Attacks\Wereform.js
 
+→ 사냥 중 변신 풀지 않도록 수정
+
 → 곰,늑대 변신 후 연속 공격이 느린점 수정
 
 2. d2bs\kolbot\libs\config\Druid.곰,늑드루(캐릭터명으로 바꿔주세요).js 파일 추가
