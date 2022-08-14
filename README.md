@@ -3,13 +3,13 @@
 22.8.14
 1. d2bs\kolbot\libs\common\Attacks\Wereform.js
 
-→ 곰,늑 드루, 바바 등 연속 공격이 느린점 수정
+→ 곰,늑대 변신 후 연속 공격이 느린점 수정
 
 2. d2bs\kolbot\libs\config\Druid.곰,늑드루(캐릭터명으로 바꿔주세요).js 파일 추가
 
 3. d2bs\kolbot\libs\common\Pather.js
 
-→ 문 오픈 시 캐릭터 위에 나오는 문구 한글화
+→ 문 오픈 시 캐릭터 위에 나오는 문구 번역
 
 22.7.10
 
