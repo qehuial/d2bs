@@ -13,6 +13,12 @@
 
 → 방 나가기 전 대기 시간이 작동하지 않던 부분 수정
 
+
+![22](https://user-images.githubusercontent.com/100043245/185172808-061e8160-3100-461d-a33c-7008beafe9e1.png)
+![33](https://user-images.githubusercontent.com/100043245/185172833-ececd5b8-63e5-44bf-9c54-58d5c9ef4993.png)
+
+
+
 22.8.15
 1. 밀리 캐릭 공격속도 전체적으로 수정
 
