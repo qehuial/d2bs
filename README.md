@@ -5,6 +5,14 @@
 
 → 22.8.15일자 업데이트 후 스킬(스마이트, 질) 사용시 오오라 사용안하던 문제 수정
 
+2. d2bs\kolbot\default.dbj
+
+3. d2bs\kolbot\D2BotLead.dbj
+
+4. d2bs\kolbot\libs\config\각 캐릭터 이니
+
+→ 방 나가기 전 대기 시간이 작동하지 않던 부분 수정
+
 22.8.15
 1. 밀리 캐릭 공격속도 전체적으로 수정
 
