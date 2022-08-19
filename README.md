@@ -1,4 +1,12 @@
 수정, 추가된 파일
+22.8.20
+1. 사냥 종료 후 나가기 딜레이 추가
+
+2. 맵핵 사용 시 상세정보 보기 기능 추가(아이템 숨렙, 코드 등..)
+
+![1](https://user-images.githubusercontent.com/100043245/185675097-7c408004-2fe4-4b56-aa05-da8d718539a8.png)
+
+
 
 22.8.17
 1. d2bs\kolbot\libs\common\Attacks\Paladin.js
