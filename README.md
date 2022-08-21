@@ -5,7 +5,8 @@
 
 2. 맵핵 표식 수정
 
-![1](https://user-images.githubusercontent.com/100043245/185794436-e0bdffb6-eb22-4e6f-bc2d-0c0408dc359a.png)
+![1](https://user-images.githubusercontent.com/100043245/185794996-700e4a0b-d465-4cc8-a31a-6b68151536a0.png)
+
 
 
 
