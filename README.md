@@ -3,7 +3,7 @@
 22.8.22
 1. 활력포션 큐빙 추가
 
-2. 맵핵 표식 수정
+2. 맵핵 몹표시 수정
 
 ![1](https://user-images.githubusercontent.com/100043245/185794996-700e4a0b-d465-4cc8-a31a-6b68151536a0.png)
 
