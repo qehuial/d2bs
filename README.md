@@ -1,15 +1,22 @@
 수정, 추가된 파일
 
 22.8.22
-1. 활력포션 큐빙 후 인벤토리에 끝도없이 모으던점 수정
+1. 활력포션 큐빙 후 인벤토리에 끝도 없이 모으던 현상..수정
+
+→ 아이템 이니에서 아래처럼 숫자를 기입하시면 그 이상 큐빙된 것들은 바닥에 버리도록 해놨습니다.
+
+![1](https://user-images.githubusercontent.com/100043245/185920847-fd172e3b-7b90-4210-bb07-b8575106edca.png)
+
+
 
 22.8.21
 1. 활력포션 큐빙 추가
 
+![2](https://user-images.githubusercontent.com/100043245/185921121-afa4efe3-ea78-42ef-9199-a6b852dfaeb5.png)
+
 2. 맵핵 몹표시 수정
 
 ![1](https://user-images.githubusercontent.com/100043245/185794996-700e4a0b-d465-4cc8-a31a-6b68151536a0.png)
-
 
 
 
