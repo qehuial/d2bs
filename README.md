@@ -8,6 +8,7 @@
 3. d2bs\kolbot\libs\common\Pather.js
 4. d2bs\kolbot\libs\common\Town.js
 5. d2bs\kolbot\libs\common\Config.js
+
 → 벨트에 포탈스크롤 넣어서 사용할 수 있도록 수정
 
 
