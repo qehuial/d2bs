@@ -1,5 +1,15 @@
 수정, 추가된 파일
 
+23.02.12 - 벨트에 포탈스크롤 넣어서 사용할 수 있도록 수정
+
+수정, 추가된 파일
+1. d2bs\kolbot\libs\config\캐릭터 이니파일
+2. d2bs\kolbot\libs\common\Misc.js
+3. d2bs\kolbot\libs\common\Pather.js
+4. d2bs\kolbot\libs\common\Town.js
+5. d2bs\kolbot\libs\common\Config.js
+
+
 
 23.01.25
 1. 한글판 매니저 추가 (오류가 있을 시 기존 매니저로 사용해주세요.)
