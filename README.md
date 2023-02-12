@@ -2,6 +2,10 @@
 
 수정, 추가된 파일
 
+→ 기존 BS와 같이 방 입장 시 맵핵 활성화
+1. d2bs\kolbot\tools\MapThread.js
+2. d2bs\kolbot\libs\config\ManualPlay.js
+
 → 벨트에 포탈스크롤 넣어서 사용할 수 있도록 수정
 1. d2bs\kolbot\libs\config\캐릭터 이니파일
 2. d2bs\kolbot\libs\common\Misc.js
