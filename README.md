@@ -3,13 +3,14 @@
 23.02.12
 
 수정, 추가된 파일
+
+→ 벨트에 포탈스크롤 넣어서 사용할 수 있도록 수정
 1. d2bs\kolbot\libs\config\캐릭터 이니파일
 2. d2bs\kolbot\libs\common\Misc.js
 3. d2bs\kolbot\libs\common\Pather.js
 4. d2bs\kolbot\libs\common\Town.js
 5. d2bs\kolbot\libs\common\Config.js
 
-→ 벨트에 포탈스크롤 넣어서 사용할 수 있도록 수정
 
 
 
