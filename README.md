@@ -10,8 +10,11 @@
 5. d2bs\kolbot\libs\common\Config.js
 
 → 하마님이 번역해주신 한글화 이니 적용 외 이니 명령어 중 갯수 외 수량도 사용 가능하게 변경
+→ 한글화 사용하려면 캐릭터 이니에서 추가하셔야 합니다.
+
 1. d2bs\kolbot\libs\NTItemAlias.dbl
 2. d2bs\kolbot\libs\NTItemParser.dbl
+3. d2bs\kolbot\pickit\하마님 한글 이니 폴더, 파일 추가
 
 23.01.25
 1. 한글판 매니저 추가 (오류가 있을 시 기존 매니저로 사용해주세요.)
