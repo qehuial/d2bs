@@ -1,18 +1,30 @@
+23.02.14
+포탈 스크롤 추가 후 제대로 작동하지 않고 엄청난 오류가 발생하여 수정하였지만,
+제대로 다 수정 되었는진 모르겠습니다 오류 있으면 말씀해주세요..
 
 
-→ 하마님 한글 이니 데센 추가
+-수정, 추가된 파일-
+
 1. d2bs\kolbot\libs\NTItemAlias.dbl
+→ 하마님 한글 이니 데센 추가
 
+1. d2bs\kolbot\default.dbj
+2. d2bs\kolbot\tools\MapThread.js
+→ 맵핵 관련 미적용 되던 부분 수정
 
+1. d2bs\kolbot\libs\common\Pather.js
+2. d2bs\kolbot\libs\common\Pickit.js
+3. d2bs\kolbot\libs\common\Town.js
+4. d2bs\kolbot\libs\common\Misc.js
+5. d2bs\kolbot\libs\common\Attack.js
+→ 포탈 스크롤 관련 수정...
 
 23.02.13
 
-수정, 추가된 파일
+-수정, 추가된 파일-
 
 1. d2bs\kolbot\pickit\하마님 한글 이니\00_레어.nip
 → 한글 이니 오타 수정
-
-
 
 23.02.12
 
