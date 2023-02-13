@@ -3,7 +3,7 @@
 수정, 추가된 파일
 
 → 한글 이니 오타 수정
-1. d2bs\kolbot\pickit\하마님 한글 이니
+1. d2bs\kolbot\pickit\하마님 한글 이니\00_레어.nip
 
 
 
