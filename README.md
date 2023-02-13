@@ -43,7 +43,7 @@
 
 1. d2bs\kolbot\libs\NTItemAlias.dbl
 
-→ 하마님 한글 이니 데센 추가
+→ 하마님 한글 이니 명령어 데센 추가
 
 1. d2bs\kolbot\default.dbj
 2. d2bs\kolbot\tools\MapThread.js
