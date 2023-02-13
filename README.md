@@ -1,34 +1,38 @@
+
+
+→ 하마님 한글 이니 데센 추가
+1. d2bs\kolbot\libs\NTItemAlias.dbl
+
 23.02.13
 
 수정, 추가된 파일
 
-→ 한글 이니 오타 수정
 1. d2bs\kolbot\pickit\하마님 한글 이니\00_레어.nip
-
+→ 한글 이니 오타 수정
 
 
 23.02.12
 
 수정, 추가된 파일
 
-→ 기존 BS와 같이 방 입장 시 맵핵 활성화
 1. d2bs\kolbot\tools\MapThread.js
 2. d2bs\kolbot\libs\config\ManualPlay.js
+→ 기존 BS와 같이 방 입장 시 맵핵 활성화
 
-→ 벨트에 포탈스크롤 넣어서 사용할 수 있도록 수정
 1. d2bs\kolbot\libs\config\캐릭터 이니파일
 2. d2bs\kolbot\libs\common\Misc.js
 3. d2bs\kolbot\libs\common\Pather.js
 4. d2bs\kolbot\libs\common\Town.js
 5. d2bs\kolbot\libs\common\Config.js
-
-→ 하마님이 번역해주신 한글화 이니 적용 + 이니 명령어 중 갯수 외 수량도 사용 가능하게 변경
-
-→ 한글화 사용하려면 캐릭터 이니에서 추가하셔야 합니다.
+→ 벨트에 포탈스크롤 넣어서 사용할 수 있도록 수정
 
 1. d2bs\kolbot\libs\NTItemAlias.dbl
 2. d2bs\kolbot\libs\NTItemParser.dbl
 3. d2bs\kolbot\pickit\하마님 한글 이니 폴더, 파일 추가
+
+→ 하마님이 번역해주신 한글화 이니 적용 + 이니 명령어 중 갯수 외 수량도 사용 가능하게 변경
+
+→ 한글화 사용하려면 캐릭터 이니에서 추가하셔야 합니다.
 
 23.01.25
 1. 한글판 매니저 추가 (오류가 있을 시 기존 매니저로 사용해주세요.)
