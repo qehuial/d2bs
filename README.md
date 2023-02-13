@@ -6,10 +6,12 @@
 -수정, 추가된 파일-
 
 1. d2bs\kolbot\libs\NTItemAlias.dbl
+
 → 하마님 한글 이니 데센 추가
 
 1. d2bs\kolbot\default.dbj
 2. d2bs\kolbot\tools\MapThread.js
+
 → 맵핵 관련 미적용 되던 부분 수정
 
 1. d2bs\kolbot\libs\common\Pather.js
@@ -17,6 +19,7 @@
 3. d2bs\kolbot\libs\common\Town.js
 4. d2bs\kolbot\libs\common\Misc.js
 5. d2bs\kolbot\libs\common\Attack.js
+
 → 포탈 스크롤 관련 수정...
 
 23.02.13
