@@ -11,17 +11,7 @@
 
 캐릭터 이니에서 아래 예시와 같이 해주시면 되겠습니다.
 
-예)
-
-Config.TownPortal = true;
-
-Config.BeltColumn[0] = "hp";
-
-Config.BeltColumn[1] = "mp";
-
-Config.BeltColumn[2] = "rv";
-
-Config.BeltColumn[3] = "tsc";
+![제목 없음](https://user-images.githubusercontent.com/100043245/218508750-46145d45-e469-45f0-8f6d-33c67456900d.png)
 
 
 위 예시는 아래와 같이 작동 합니다.
