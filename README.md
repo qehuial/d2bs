@@ -19,9 +19,13 @@
 2. d2bs\kolbot\libs\common\Pickit.js
 3. d2bs\kolbot\libs\common\Town.js
 4. d2bs\kolbot\libs\common\Misc.js
-5. d2bs\kolbot\libs\common\Attack.js
 
 → 포탈 스크롤 관련 수정...
+
+1. d2bs\kolbot\libs\common\Attack.js
+
+→ 리더가 디아런에서 포탈을 너무 자주 열던 점 수정..
+
 
 23.02.13
 
