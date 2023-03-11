@@ -1,4 +1,7 @@
 ﻿
+8월 20일자로 롤백
+
+
 23.02.19
 
 1. d2bs\kolbot\default.dbj
