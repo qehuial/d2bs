@@ -1,4 +1,24 @@
 ﻿
+23.05.16
+1. 횃불퀘스트 진행 시 겹치지 않도록 일정범위 안에서 이동 후 포탈 오픈 기능 추가
+
+2. 이전 버전 사용자는 아래 내용을 참고하셔서 파일 교체와 현재 사용하시는 캐릭터 이니를 조금 수정하시면 되겠습니다.
+
+→ d2bs\kolbot\libs\bots폴더 OrgTorch.js파일 교체
+→ d2bs\kolbot\libs\common폴더 Config.js파일 교체
+→ 캐릭터이니 Scripts.OrgTorch = false; 밑에 아래 내용 추가
+→ Config.OrgTorch.OpenAfterMove = false; // 이동 후 포탈 오픈(창고가 아닌 인벤토리에 큐브를 소지하고 있어야 함)
+
+
+
+![1](https://github.com/qehuial/d2bs/assets/100043245/a6c2f6a3-b342-415a-8334-55eec2e0c16c)
+
+
+![2](https://github.com/qehuial/d2bs/assets/100043245/4910995c-d51e-4d82-a68c-250b499fc9b3)
+
+
+
+﻿
 23.04.18
 
 
