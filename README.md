@@ -17,7 +17,8 @@
 ![1](https://github.com/qehuial/d2bs/assets/100043245/a6c2f6a3-b342-415a-8334-55eec2e0c16c)
 
 
-![2](https://github.com/qehuial/d2bs/assets/100043245/4910995c-d51e-4d82-a68c-250b499fc9b3)
+![2](https://github.com/qehuial/d2bs/assets/100043245/890275e8-7033-4fba-970c-98aa086ba851)
+
 
 
 
