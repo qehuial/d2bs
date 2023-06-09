@@ -22,6 +22,8 @@ Config.BeltColumn에 "tsc"만 입력하면 되도록 변경 필요없어진 Conf
 
 → d2bs\kolbot\libs\config폴더 캐릭터이니 Config.TownPortal 삭제
 
+![1](https://github.com/qehuial/d2bs/assets/100043245/36f92fd4-a1d6-487e-8d79-28fe11565ae7)
+
 
 23.05.16
 1. 횃불퀘스트 진행 시 겹치지 않도록 일정범위 안에서 랜덤하게 이동 후 포탈 오픈 기능 추가
