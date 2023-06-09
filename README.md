@@ -18,7 +18,7 @@ Config.BeltColumn에 "tsc"만 입력하면 되도록 변경 필요없어진 Conf
 
 → d2bs\kolbot\libs\common폴더 Config.js 파일 교체
 
-→ d2bs\kolbot\tools\TownChicken.js 파일 교체
+→ d2bs\kolbot\tools폴더 TownChicken.js 파일 교체
 
 → d2bs\kolbot\libs\config폴더 캐릭터이니 Config.TownPortal 삭제
 
