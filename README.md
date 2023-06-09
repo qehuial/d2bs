@@ -1,4 +1,26 @@
 ﻿
+23.06.10 - 업데이트 전
+기존 벨트 타운포탈 작동 방식 수정하고 벨트 포탈을 캐릭터 이니에서 Config.BeltColumn에 "tsc"만 입력하면 되도록 변경
+필요없어진 Config.TownPortal 삭제
+
+1. 변경 전 : 벨트에 포탈이 1개 남을 경우 남은 포탈 사용하여 마을로 이동하여 포탈 구매 후 사냥 진행
+2. 변경 후 : 벨트에 포탈이 0개일 경우 마지막으로 열었던 포탈로 이동하여 포탈 구매 후 사냥 진행
+
+→ d2bs\kolbot\libs\common폴더 Town.js 파일 교체
+
+→ d2bs\kolbot\libs\common폴더 Misc.js 파일 교체
+
+→ d2bs\kolbot\libs\common폴더 Pickit.js 파일 교체
+
+→ d2bs\kolbot\libs\common폴더 Pather.js 파일 교체
+
+→ d2bs\kolbot\libs\common폴더 Config.js 파일 교체
+
+→ d2bs\kolbot\tools\TownChicken.js 파일 교체
+
+→ d2bs\kolbot\libs\config폴더 캐릭터이니 Config.TownPortal 삭제
+
+
 23.05.16
 1. 횃불퀘스트 진행 시 겹치지 않도록 일정범위 안에서 랜덤하게 이동 후 포탈 오픈 기능 추가
 
