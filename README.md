@@ -1,5 +1,6 @@
 ﻿
 23.06.10 - 업데이트 전
+
 기존 벨트 타운포탈 작동 방식 수정하고 벨트 포탈을 캐릭터 이니에서 Config.BeltColumn에 "tsc"만 입력하면 되도록 변경
 필요없어진 Config.TownPortal 삭제
 
