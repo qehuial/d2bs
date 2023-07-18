@@ -1,4 +1,15 @@
-﻿
+23.07.18
+
+1. 안다리엘 근처에서 포탈 열기 추가
+
+→ d2bs\kolbot\libs\common폴더 Config.js 파일 교체
+
+→ d2bs\kolbot\libs\bots\Andariel.js 파일 교체
+
+→ d2bs\kolbot\libs\config\캐릭터이니.js 구문 추가 (사진참고)
+
+![1](https://github.com/qehuial/d2bs/assets/100043245/b0d2ad2d-a29d-498a-9fdf-5dd970b34bab)
+ 
 23.06.10
 
 기존의 벨트 타운포탈 작동 방식을 수정하고 벨트 포탈을 캐릭터 이니에서
