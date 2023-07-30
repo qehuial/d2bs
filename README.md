@@ -1,11 +1,21 @@
 23.07.20
+1. 아이템 식별 책을 안들고 있을 경우 인벤토리가 꽉 찼을 때 미확인 스크롤을 사지 못하는 현상 수정 (백업 후 사용 권장)
+   미확인 아이템 중에서 가장 왼쪽 위에 있는 하나를 판매하여 자리를 확보 후 진행
+
+→ d2bs\kolbot\libs\common\Town.js 파일 교체
+
+2. 이전 버전에서 필요없어진 구문을 삭제하지 못하여 발생하는 버그 수정
+
+→ d2bs\kolbot\libs\common\Misc.js 파일 교체
+
+23.07.20
 
 1. 벨트 포탈 사용 시 Scripts.ChestMania (상자깡) 실행 중 포탈 수량이 설정 수 미만으로 떨어져도 스크롤을 사지 않던 현상 수정
 
 2. 다음 사냥터로 넘어가기 전 5초 딜레이 삭제
 (부기사, 쫄 때문에 해놨었는데 이걸 왜 해놨었는지 정확하게는 기억이 안납니다.. 바꾼 후 버그가 있으면 말씀해주세요)
 
-→ d2bs\kolbot\libs\common폴더 Pather.js 파일 교체
+d2bs\kolbot\libs\common폴더 Pather.js 파일 교체
 
 → d2bs\kolbot\libs\common폴더 Town.js 파일 교체
 
