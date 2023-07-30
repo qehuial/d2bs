@@ -5,7 +5,7 @@
 
 → d2bs\kolbot\libs\common\Town.js 파일 교체
 
-2. 이전 버전에서 필요없어진 구문을 삭제하지 못하여 발생하는 버그 수정
+2. 이전 버전에서 필요없어진 구문을 삭제하지 못하여 발생하는 오류 수정
 
 → d2bs\kolbot\libs\common\Misc.js 파일 교체
 
